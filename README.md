@@ -1,0 +1,1 @@
+# earthquake_azure_data_adapter
